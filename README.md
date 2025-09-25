@@ -96,3 +96,5 @@ V1.4.2 -- Added separate view types for the moon editor, also made the moon tilt
 ~~~~~~~~~~~~
 9/24/25
   V1.4.2c -- Patched the bug where spin direction wouldn't switch in the moon editor when viewed from the side.
+  V1.4.2d -- Made the moons' shadows turn off in the editor when shadows are off.
+~~~~~~~~~~~~
