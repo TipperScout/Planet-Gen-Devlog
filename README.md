@@ -32,12 +32,12 @@ V1.2.3 -- Made it so the moons' orbit's separate from the planet, though all the
 ~~~~~~~~~~~~
 ~~~~~~~~~~~~
 8/24/25
-V1.2.3a -- I made it so that when using mouse to spin the planet it makes the moons spin at their speed instead of the same as the planet
+  V1.2.3a -- I made it so that when using mouse to spin the planet it makes the moons spin at their speed instead of the same as the planet
 ~~~~~~~~~~~~
 ~~~~~~~~~~~~
 8/26/25
-V1.2.3b -- Made the moons' orbit not increment when off to reduce lag. Also, made it so the prevailing winds check only ran in temperatures it's needed in, so there's less lag while using dynamic biomes. Also also, made it so that clouds don't update or move when toggled off.
-V1.2.3c -- Updated the shadows so that smaller planets have the same amount of shadows as larger ones.
+  V1.2.3b -- Made the moons' orbit not increment when off to reduce lag. Also, made it so the prevailing winds check only ran in temperatures it's needed in, so there's less lag while using dynamic biomes. Also also, made it so that clouds don't update or move when toggled off.
+  V1.2.3c -- Updated the shadows so that smaller planets have the same amount of shadows as larger ones.
 ~~~~~~~~~~~~
 ~~~~~~~~~~~~
 8/27/25
@@ -45,23 +45,23 @@ V1.2.4 -- Updated the moon system, so now the moons can have a full angle tilt, 
 ~~~~~~~~~~~~
 ~~~~~~~~~~~~
 8/28/25
-V1.2.4a -- Made the minimum moon distance from 3 to 4 to stop clipping at larger planet sizes.
-V1.2.4b -- Expanded the distance that the moons are from the planet.
+  V1.2.4a -- Made the minimum moon distance from 3 to 4 to stop clipping at larger planet sizes.
+  V1.2.4b -- Expanded the distance that the moons are from the planet.
 ~~~~~~~~~~~~
 ~~~~~~~~~~~~
 8/30/25
-V1.2.4c -- Patched the glitch where a moon would flip sides in the middle of the planet.
-V1.2.4d -- Made the moon tilt offset random from 0 to 360 to -180 to 180, so I hope this will finally get rid of that awful moon glitch.
-V1.2.4e -- Patched moons flickering, but they now clip through the planet again.
+  V1.2.4c -- Patched the glitch where a moon would flip sides in the middle of the planet.
+  V1.2.4d -- Made the moon tilt offset random from 0 to 360 to -180 to 180, so I hope this will finally get rid of that awful moon glitch.
+  V1.2.4e -- Patched moons flickering, but they now clip through the planet again.
 ~~~~~~~~~~~~
 ~~~~~~~~~~~~
 9/3/25
-V1.2.4f -- I think I finally patched the clipping glitch.
+  V1.2.4f -- I think I finally patched the clipping glitch.
 ~~~~~~~~~~~~
 ~~~~~~~~~~~~
 9/7/25
-V1.2.4g -- Patched the glitch where moons and other toggles would show as the opposite value for the first frame, and needing to double click S at start to swap sun side.
-V1.2.4h -- Made it so the moons can leave the screen's edge, and also made it that the moons have better lighting.
+  V1.2.4g -- Patched the glitch where moons and other toggles would show as the opposite value for the first frame, and needing to double click S at start to swap sun side.
+  V1.2.4h -- Made it so the moons can leave the screen's edge, and also made it that the moons have better lighting.
 ~~~~~~~~~~~~
 ~~~~~~~~~~~~
 9/13/25
@@ -74,25 +74,25 @@ V1.3.0 -- Adds an atmosphere to the planet. It's REALLY laggy for some reason.
 ~~~~~~~~~~~~
 9/21/25
 V1.3.1 -- Well, I made the atmosphere look better, but it still runs like trash.
-V1.3.1a -- Okay, so I made the atmosphere run good, but I had to remove the trick that stopped it from not having those half transparency points on the ends of each line.
-V1.3.1b -- Small atmosphere shadow glitch patch.
+  V1.3.1a -- Okay, so I made the atmosphere run good, but I had to remove the trick that stopped it from not having those half transparency points on the ends of each line.
+  V1.3.1b -- Small atmosphere shadow glitch patch.
 V1.3.2 -- Patched the atmosphere transparency glitch, it was easier then expected.
-V1.3.2a -- Minor atmosphere shadow glitch patch. Also, increased Air Thickness max from 3 to 5.
-V1.3.2b -- Made Air Color work like Grass Color and Water Color. Also, made the atmosphere scale correctly at the bottom.
+  V1.3.2a -- Minor atmosphere shadow glitch patch. Also, increased Air Thickness max from 3 to 5.
+  V1.3.2b -- Made Air Color work like Grass Color and Water Color. Also, made the atmosphere scale correctly at the bottom.
 ~~~~~~~~~~~~
 ~~~~~~~~~~~~
 9/23/25
 V1.4.0 -- Added a moon editor
-V1.4.0a -- Patched a visual glitches when deleting planets
+  V1.4.0a -- Patched a visual glitches when deleting planets
 V1.4.1 -- Made it so that pressing P when editing a planet takes you back to the editor instead of just the main planet screen.
-V1.4.1a -- Made it so you can use the brush size shower in moon editor.
-V1.4.1b -- Patched a glitch where you could get an extra moon by adding a moon while editing, and also increased the max number of moons from 5 to 6 
-V1.4.1c -- Centered the terrain editing in the moon editor
-V1.4.1d -- Added a spinning version of the moon in the moon editor for preview.
+  V1.4.1a -- Made it so you can use the brush size shower in moon editor.
+  V1.4.1b -- Patched a glitch where you could get an extra moon by adding a moon while editing, and also increased the max number of moons from 5 to 6 
+  V1.4.1c -- Centered the terrain editing in the moon editor
+  V1.4.1d -- Added a spinning version of the moon in the moon editor for preview.
 V1.4.2 -- Added separate view types for the moon editor, also made the moon tilt effect the Y in the side view.
-V1.4.2a -- Removed drag spin from moon editor.
-V1.4.2b -- Added shadows to the moon editor.
+  V1.4.2a -- Removed drag spin from moon editor.
+  V1.4.2b -- Added shadows to the moon editor.
 ~~~~~~~~~~~~
 ~~~~~~~~~~~~
 9/24/25
-V1.4.2c -- Patched the bug where spin direction wouldn't switch in the moon editor when viewed from the side.
+  V1.4.2c -- Patched the bug where spin direction wouldn't switch in the moon editor when viewed from the side.
