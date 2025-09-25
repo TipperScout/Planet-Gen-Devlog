@@ -3,7 +3,7 @@
 ## Some versions may have been lost, since I hadn't been tracking since the start, but I did my best effort to piece it together, and the versions before V1.2 may be wrong. Pretty sure I started making this game back on 6/25/25.
 ~~~~~~~~~~~~
 7/3/25
-V1.0.0 -- Added the game (Temperature, spin, grass/water colors shadow speeds clouds).
+V1.0.0 -- Added the game (Temperature, spin, grass/water colors, shadow, speeds and clouds).
 ~~~~~~~~~~~~
 ~~~~~~~~~~~~
 7/4/25
