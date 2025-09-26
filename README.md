@@ -83,7 +83,7 @@ V1.3.2 -- Patched the atmosphere transparency glitch, it was easier then expecte
 ~~~
 9/23/25
 V1.4.0 -- Added a moon editor
-  V1.4.0a -- Patched a visual glitches when deleting planets
+  V1.4.0a -- Patched a visual glitches when deleting moons.
 V1.4.1 -- Made it so that pressing P when editing a planet takes you back to the editor instead of just the main planet screen.
   V1.4.1a -- Made it so you can use the brush size slider in moon editor.
   V1.4.1b -- Patched a glitch where you could get an extra moon by adding a moon while editing, and also increased the max number of moons from 5 to 6 
