@@ -17,9 +17,7 @@ V1.1.1 -- Added, separated clouds and names.
 7/6/25
 V1.1.2 -- Added dynamic biomes, more separated clouds, and prevailing winds.
 ~~~~~~~~~~~~
-~~~~~~~~~~~~
-There was a month and a half pause. Sorry, I was working on other projects.
-~~~~~~~~~~~~
+### There was a month and a half pause. Sorry, I was working on other projects.
 ~~~~~~~~~~~~
 8/22/25 
 V1.2.0 -- Added moons.
