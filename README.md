@@ -106,3 +106,6 @@ V1.4.2 -- Added separate view types for the moon editor, also made the moon tilt
 9/28/25
   V1.4.2f -- Patched the glitch where there would still be shadows on the rings when heights only was true
 ~~~
+~~~
+V1.4.3 -- Added ground color and saturation, support for Celsius, and a second page for the editor with Q (pressed twice)
+~~~
