@@ -114,4 +114,5 @@ V1.4.3 -- Added ground color and saturation, support for Celsius, and a second p
 ~~~
 9/30/25
 V1.4.4 -- Added preset planet (only Earth and Mars at the moment.)
+  V1.4.4a -- Made snow not form below -4°F (-20°C)
 ~~~
