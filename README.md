@@ -109,4 +109,5 @@ V1.4.2 -- Added separate view types for the moon editor, also made the moon tilt
 ~~~
 9/29/25
 V1.4.3 -- Added ground color and saturation, support for Celsius, and a second page for the editor with Q (pressed twice)
+  V1.4.3a -- Patched some stone not being changed by ground color/saturation, and made sand get effect by the ground color.
 ~~~
