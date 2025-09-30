@@ -111,3 +111,7 @@ V1.4.2 -- Added separate view types for the moon editor, also made the moon tilt
 V1.4.3 -- Added ground color and saturation, support for Celsius, and a second page for the editor with Q (pressed twice)
   V1.4.3a -- Patched some stone not being changed by ground color/saturation.
 ~~~
+~~~
+9/30/25
+V1.4.4 -- Added preset planet (only Earth and Mars at the moment.)
+~~~
