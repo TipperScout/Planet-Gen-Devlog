@@ -121,5 +121,6 @@ V1.4.5 -- Added heatmap mode.
   V1.4.5a -- Made desert leeward side of mountains (deserts) 15 °F hotter.
 ~~~
 ~~~
+10/1/25
   V1.4.5b -- Added Uranus, Jupiter, and Neptune, and also added Pluto's largest moon Charon.
 ~~~
