@@ -116,5 +116,5 @@ V1.4.3 -- Added ground color and saturation, support for Celsius, and a second p
 V1.4.4 -- Added preset planet (only Earth and Mars at the moment)
   V1.4.4a -- Made snow not form below -4°F (-20°C)
   V1.4.4b -- Made temp go down more or less depending on atmosphere thickness.
-  V1.4.4c -- Added Venus, Mercury, Pluto and Kepler-22b to the preset planets.
+  V1.4.4c -- Added Venus, Mercury, Pluto, Saturn and Kepler-22b to the preset planets.
 ~~~
