@@ -120,3 +120,6 @@ V1.4.4 -- Added preset planet (only Earth and Mars at the moment)
 V1.4.5 -- Added heatmap mode.
   V1.4.5a -- Made desert leeward side of mountains (deserts) 15 °F hotter.
 ~~~
+~~~
+  V1.4.5b -- Added Uranus, Jupiter, and Neptune, and also added Pluto's largest moon Charon.
+~~~
