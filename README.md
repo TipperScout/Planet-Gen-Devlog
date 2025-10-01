@@ -118,4 +118,5 @@ V1.4.4 -- Added preset planet (only Earth and Mars at the moment)
   V1.4.4b -- Made temp go down more or less depending on atmosphere thickness.
   V1.4.4c -- Added Venus, Mercury, Pluto, Saturn and Kepler-22b to the preset planets.
 V1.4.5 -- Added heatmap mode.
+  V1.4.5a -- Made desert leeward side of mountains (deserts) 15 °F hotter.
 ~~~
