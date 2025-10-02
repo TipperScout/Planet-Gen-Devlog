@@ -125,4 +125,5 @@ V1.4.5 -- Added heatmap mode.
   V1.4.5b -- Added Uranus, Jupiter, and Neptune, and also added Pluto's largest moon Charon.
   V1.4.5c -- Added Makemake and Ceres.
   V1.4.5d -- Patched the glitch where deserts would effect the temp of land outside the desert range.
+  V1.4.5e -- Fixed moon shadows from having weird glitches in darker values.
 ~~~
