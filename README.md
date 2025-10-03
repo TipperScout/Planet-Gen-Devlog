@@ -127,3 +127,7 @@ V1.4.5 -- Added heatmap mode.
   V1.4.5d -- Patched the glitch where deserts would effect the temp of land outside the desert range.
   V1.4.5e -- Fixed moon shadows from having weird glitches in darker values.
 ~~~
+~~~
+10/3/25
+  V1.4.5f -- Made water get effected by greenhouse gasses.
+~~~
