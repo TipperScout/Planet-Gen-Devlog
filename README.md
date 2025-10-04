@@ -131,4 +131,5 @@ V1.4.5 -- Added heatmap mode.
 10/3/25
   V1.4.5f -- Made water get effected by greenhouse gasses.
   V1.4.5g -- Made clouds not be on the leeward side of mountains.
+  V1.4.5h -- Made it so clouds are over water after prevailing winds, so they aren't just lines of emptiness in the water after deserts.
 ~~~
