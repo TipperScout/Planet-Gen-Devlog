@@ -143,5 +143,6 @@ V1.5.1 -- Added mobile support for sliders.
 ~~~
 ~~~
 10/6/25
-  V1.5.1a -- added terrain smoothing resistance.
+  V1.5.1a -- Added terrain smoothing resistance.
+  V1.5.1b -- Updated the water temperature equation.
 ~~~
