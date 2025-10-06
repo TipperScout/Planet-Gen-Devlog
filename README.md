@@ -140,4 +140,5 @@ V1.4.6 -- Added city lights. They don't save yet, sorry.
 V1.5.0 -- Added terrain smoothing on start on start, rather than it just being random noise.
   V1.5.0a -- Added a button for smoothing the whole planet.
 V1.5.1 -- Added mobile support for sliders.
+  V1.5.1a -- added terrain smoothing resistance.
 ~~~
