@@ -137,4 +137,5 @@ V1.4.5 -- Added heatmap mode.
 10/5/25
 V1.4.6 -- Added city lights. They don't save yet, sorry.
   V1.4.6a -- Guess what! You can now save cities!!!
+V1.5.0 -- Added terrain smoothing on start.
 ~~~
