@@ -148,3 +148,7 @@ V1.5.1 -- Added mobile support for sliders.
   V1.5.1c -- Updated city look, made cities have a light slider, and they can now spawn in taigas.
   V1.5.1d -- Added Earth's cities based on real population data to the Earth preset.
 ~~~
+~~~
+10/7/25
+V1.5.2 -- Added a sun system.
+~~~
