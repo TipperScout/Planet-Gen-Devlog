@@ -155,4 +155,5 @@ V1.5.2 -- Added a sun system.
 ~~~
 10/8/25
   V1.5.2a -- Switched planet smooth keybind from 8 to M
+  V1.5.2b -- Mobile can now open the moon editor, by clicking the bottom right corner.
 ~~~
