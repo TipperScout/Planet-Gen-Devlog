@@ -152,3 +152,7 @@ V1.5.1 -- Added mobile support for sliders.
 10/7/25
 V1.5.2 -- Added a sun system.
 ~~~
+~~~
+10/8/25
+  V1.5.2a -- Switched planet smooth keybind from 8 to M
+~~~
