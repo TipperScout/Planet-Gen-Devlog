@@ -165,5 +165,5 @@ V1.5.3 -- Added sun color, though it's not savable yet, sorry.
 ~~~
 ~~~
 10/12/25
-  V1.5.3a -- Added a sun distance slider, and added it and sun color to saving/loading.
+  V1.5.3a -- Added a sun distance slider, and added it and sun color to saving/loading. Also, updated all the planet presets to the latest version (1.5.3a).
 ~~~
