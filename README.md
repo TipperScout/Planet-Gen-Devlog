@@ -159,3 +159,7 @@ V1.5.2 -- Added a sun system.
   V1.5.2c -- Added 0 to some of the sliders for better mobile support.
   V1.5.2d -- Made cities go up to a density of 5 instead of 3.
 ~~~
+~~~
+10/11/25
+V1.5.3 -- Added sun color, though it's not savable yet, sorry.
+~~~
