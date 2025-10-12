@@ -166,5 +166,5 @@ V1.5.3 -- Added sun color, though it's not savable yet, sorry.
 ~~~
 10/12/25
   V1.5.3a -- Added a sun distance slider, and added it and sun color to saving/loading. Also, updated all the planet presets to the latest version (1.5.3a).
-  V1.5.3b -- Made the starting smoothing resistance 1 to 25 instead of 5 to 10, and have smooth repeat random 2 to 24 instead of 10 to 15 to allow for planets that look like the old ones.
+  V1.5.3b -- Made the starting smoothing resistance 1 to 25 instead of 5 to 10, and have smooth repeat random 1 to (Smooth Resistance) instead of 10 to 15 to allow for planets that look like the old ones.
 ~~~
