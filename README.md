@@ -163,3 +163,7 @@ V1.5.2 -- Added a sun system.
 10/11/25
 V1.5.3 -- Added sun color, though it's not savable yet, sorry.
 ~~~
+~~~
+10/12/25
+  V1.5.3a -- Added a sun distance slider, and added it and sun color to saving/loading.
+~~~
