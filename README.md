@@ -174,4 +174,5 @@ V1.5.4 -- Added music, credits;
     Composer: TipperScout
     Title: Planetary Juggle
     Link: https://flat.io/score/68db076e9713395a3b40aded-planetary-juggle
+  V1.5.4a -- Added the ability to press 8 to spawn a new planet, since pressing start resets the music. This will be updated when the controls are updates.
 ~~~
