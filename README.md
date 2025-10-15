@@ -168,3 +168,10 @@ V1.5.3 -- Added sun color, though it's not savable yet, sorry.
   V1.5.3a -- Added a sun distance slider, and added it and sun color to saving/loading. Also, updated all the planet presets to the latest version (1.5.3a).
   V1.5.3b -- Made the starting smoothing resistance 1 to 25 instead of 5 to 10, and have smooth repeat random 3 to (Smoothing Resistance)+5 instead of 10 to 15 to allow for planets that look like the old ones.
 ~~~
+~~~
+10/14/25
+V1.5.4 -- Added music, credits
+    Artist: TipperScout
+    Title: Planetary Juggle
+    Link: https://flat.io/score/68db076e9713395a3b40aded-planetary-juggle
+~~~
