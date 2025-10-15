@@ -171,7 +171,7 @@ V1.5.3 -- Added sun color, though it's not savable yet, sorry.
 ~~~
 10/14/25
 V1.5.4 -- Added music, credits
-    Artist: TipperScout
+    Composer: TipperScout
     Title: Planetary Juggle
     Link: https://flat.io/score/68db076e9713395a3b40aded-planetary-juggle
 ~~~
