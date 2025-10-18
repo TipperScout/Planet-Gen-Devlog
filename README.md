@@ -176,3 +176,7 @@ V1.5.4 -- Added music, credits;
     Link: https://flat.io/score/68db076e9713395a3b40aded-planetary-juggle
   V1.5.4a -- Added the ability to press 8 to spawn a new planet, since pressing start resets the music. This will be updated when the controls are updates.
 ~~~
+~~~
+10/18/25
+  V1.5.4b -- Patched the bug where sun color wouldn't effect mountains with ground color.
+~~~
