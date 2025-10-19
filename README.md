@@ -179,4 +179,5 @@ V1.5.4 -- Added music, credits;
 ~~~
 10/18/25
   V1.5.4b -- Patched the bug where sun color wouldn't effect mountains with ground color.
+V1.5.5 -- Added a a separated cloud type called Earth-Like, because the the other types didn't work correctly for Earth's deserts.
 ~~~
