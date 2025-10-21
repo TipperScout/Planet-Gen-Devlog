@@ -181,3 +181,7 @@ V1.5.4 -- Added music, credits;
   V1.5.4b -- Patched the bug where sun color wouldn't effect mountains with ground color.
 V1.5.5 -- Added a a separated cloud type called Earth-Like, because the the other types didn't work correctly for Earth's deserts.
 ~~~
+~~~
+10/20/25
+  1.5.5a -- Added TurboWarp popup on start.
+~~~
