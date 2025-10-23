@@ -185,3 +185,7 @@ V1.5.5 -- Added a a separated cloud type called Earth-Like, because the the othe
 10/20/25
   1.5.5a -- Added TurboWarp popup on start.
 ~~~
+~~~
+10/23/25
+  1.5.5b -- Made the yellow star setting have the star be white to make it more accurate.
+~~~
