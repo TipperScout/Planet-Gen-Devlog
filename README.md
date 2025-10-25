@@ -190,3 +190,7 @@ V1.5.5 -- Added a a separated cloud type called Earth-Like, because the the othe
   1.5.5b -- Made the yellow star setting have the star be white to make it more accurate.
   V1.5.5c -- Made the sun have a more rounded shape when on larger sizes.
 ~~~
+~~~
+10/25/25
+  V1.5.5d -- Added a less saturated highlight on the water to make it look more reflective.
+~~~
