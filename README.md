@@ -194,3 +194,7 @@ V1.5.5 -- Added a a separated cloud type called Earth-Like, because the the othe
 10/25/25
   V1.5.5d -- Added a less saturated highlight on the water to make it look more reflective.
 ~~~
+~~~
+11/3/25
+V1.5.6 -- Added a map mode when pressing K, this does replace the atmosphere toggle, so you'd just need to set atmosphere to a transparency of 100 to turn it off. There will be more map types in the future, right now there's heightmap and a simple surface.
+~~~
